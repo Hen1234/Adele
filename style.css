@@ -8,6 +8,13 @@
 
 body
 {
+	
+	background-size: 60% 100%;
+	size: 100%;
+	background-repeat: no-repeat;
+	background-position: fixed;
 	background-color: darkslategrayp;
+
+	
 
 }
