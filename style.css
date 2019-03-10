@@ -25,3 +25,13 @@ a
 	text-align: center;
 	border-right: 1px solid rgb(159, 209, 207);
 }
+
+#title
+{
+	font: bold 12px/30px Georgia, serif;
+	font-size: 250%;
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	border-right: 1px solid rgb(159, 209, 207);
+}
