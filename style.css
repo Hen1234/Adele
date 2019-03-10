@@ -1,21 +1,18 @@
 #menu
 {
-	position: fixed;
-	width: 100%;
-	height: 35px;
-	background: white;
+	
 }
 
 body
 {
 	
-	background-image: url("reka.jpg");
-	background-size: 60% 100%;
+	background-image: url("reka5.jpg");
+	background-size: 100%;
 	size: 100%;
 	background-repeat: no-repeat;
 	background-position: right top;
 	background-attachment: fixed;
-	
+
 	
 
 	
