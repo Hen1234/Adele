@@ -9,11 +9,12 @@
 body
 {
 	
+	background-image: url("reka.jpg");
 	background-size: 60% 100%;
 	size: 100%;
 	background-repeat: no-repeat;
 	background-position: fixed;
-	background-color: darkslateblue;
+	
 
 	
 
