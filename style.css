@@ -39,3 +39,11 @@ a
 	text-align: center;
 	border-right: 1px solid rgb(159, 209, 207);
 }
+
+#logo
+{
+	vertical-align: middle;
+	height: 60px;
+	margin-left: -2px;
+	size: 2px;
+}
