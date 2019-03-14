@@ -53,8 +53,15 @@ a
 	text-align: center;
 }
 
-#web1
+.web
+{
+	font: bold 12px/30px Georgia;
+	font-size: 100%;
+	font-style: italic;
+
+}
+
+#spa
 {
 	
-
 }
