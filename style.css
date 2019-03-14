@@ -61,7 +61,11 @@ a
 
 }
 
-#spa
+.about
 {
-	
+
+	font: bold 12px/30px Georgia;
+	font-size: 100%;
+
+
 }
